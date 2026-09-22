@@ -1,9 +1,5 @@
-function App() {
-  return (
-    <div>
-      <h1>Job Application Tracker</h1>
-    </div>
-  );
-}
+   function App() {
+     return <h1 className="text-3xl font-bold text-blue-600">Job Application Tracker</h1>
+   }
 
-export default App;
+   export default App
